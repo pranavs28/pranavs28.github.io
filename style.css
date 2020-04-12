@@ -52,12 +52,7 @@
     display: table;
     }
 
-@media screen and (max-width: 100px) {
-    .podcast-column, .ec-column, .column {
-        width: 100%;
-        padding: 20px
-        }
-    }
+
 
 .icontext {
     text-align: center;
