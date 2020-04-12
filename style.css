@@ -42,15 +42,19 @@
 .podcast-column {
     float: left;
     width: 50%;
+    padding-left: 20px;
+    padding-right: 20px;
     height: auto;
     text-align: left;
-    padding-left: 20px;
-    padding-right: 0;
     }
 
 .row {
     width: 80%;
 }    
+
+.rowpod {
+    width: 90%;
+}   
 
 .row::after {
     content: "";
