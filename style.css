@@ -16,7 +16,7 @@
 
 .socialcolumn {
     float: left;
-    width: 70px;
+    width: 33.33%;
     height: auto;
 
 }
@@ -54,7 +54,11 @@
 
 .rowpod {
     width: 90%;
-}   
+}  
+
+.rowsocial {
+    width: 30%;
+} 
 
 .row::after {
     content: "";
