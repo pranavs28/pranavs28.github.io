@@ -16,14 +16,14 @@
 
 .socialcolumn {
     float: left;
-    width: 70px;
+    width: auto;
     height: auto;
 
 }
 
 .column {
     float: left;
-    width: 300px;
+    width: auto;
     height: auto;
     text-align: left;
 
