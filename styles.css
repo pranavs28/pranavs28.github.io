@@ -1,3 +1,9 @@
 body {
     text-align: center;
 }
+
+.socials-icon {
+    min-width: 50px;
+    max-width: 70px;
+    height: auto;
+}
