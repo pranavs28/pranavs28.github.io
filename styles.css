@@ -7,3 +7,9 @@ body {
     max-width: 70px;
     height: auto;
 }
+
+hr.rounded {
+    border-top: 3px solid #1F262A;
+    border-radius: 5px;
+    
+  }
