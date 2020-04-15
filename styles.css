@@ -18,6 +18,11 @@ hr.rounded {
     font-size: 50px;
 }
 
+.podcast-frame {
+    width:100%;
+    height: 290%;
+}
+
 @media screen and (max-width: 960px) { /*Same but for less*/
     .school-title {
         font-size: 30px;
@@ -27,5 +32,9 @@ hr.rounded {
     }
     .education-button {
         font-size: 25px;
+    }
+    .podcast-frame {
+        width: 100%;
+        height: 290%;
     }
 }
